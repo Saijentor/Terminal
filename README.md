@@ -1,4 +1,4 @@
-# Results of studying the terminal::
+# Results of studying the terminal:
 _Contains two homework assignments and one script._
 ## Terminal Homework 1:
 * Check where I am:
