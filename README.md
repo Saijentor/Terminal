@@ -1,5 +1,5 @@
-# The results of the studied terminal are stored in this repository:
-
+# Results of studying the terminal::
+_Contains two homework assignments and one script._
 ## Terminal Homework 1:
 * Check where I am:
 `pwd`
@@ -17,7 +17,7 @@
 * Send an http request to the server. http://162.55.220.72:5005/terminal-hw-request :
 	`curl 'http://162.55.220.72:5005/get_method?name='Sergei'&age=27'`
   
-* Write a script that will automatically execute steps 3, 4, 5, 6, 7, 8, 13: --> [Script](https://github.com/Saijentor/Terminal/blob/main/script%20terminal.sh)
+* Write a script that will automatically execute steps 3, 4, 5, 6, 7, 8, 13:  [Script](https://github.com/Saijentor/Terminal/blob/main/script%20terminal.sh)
 ***
 ## Terminal Homework 2:
 * Being in the folder dir_1 create an empty text file tf_1.txt:
@@ -31,3 +31,6 @@
 * One line command. Find all lines with "sec" in all text files, copy and paste these lines into one new created text file:
 `grep -rh --line-buffered sec > new.txt`
 #### Continued in this file -> [Homework 2](https://github.com/Saijentor/Terminal/blob/main/HW_2.txt)
+<div align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/bash/bash-original.svg" width="40px"/>
+</div>
