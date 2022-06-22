@@ -1,4 +1,4 @@
-# The results of the studied terminal are stored in this repository
+# The results of the studied terminal are stored in this repository:
 
 ## Terminal Homework 1:
 * Check where I am:
