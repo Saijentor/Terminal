@@ -1,4 +1,4 @@
-# Results of studying the terminal:
+# The result of learning terminal is displayed in this repository:
 _Contains two homework assignments and one script._
 ## Terminal Homework 1:
 * Check where I am:
