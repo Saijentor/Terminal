@@ -32,5 +32,5 @@ _Contains two homework assignments and one script._
 `grep -rh --line-buffered sec > new.txt`
 #### Continued in this file -> [Homework 2](https://github.com/Saijentor/Terminal/blob/main/HW_2.txt)
 <div align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/bash/bash-original.svg" width="40px"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/bash/bash-original.svg" width="70px"/>
 </div>
