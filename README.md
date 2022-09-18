@@ -21,7 +21,7 @@ mkdir folder_1.1 folder_1.2 folder_1.3
 ```sh
 mv ./folder_1.1/{file_1.txt,file_4.json} ./folder_1.2/
 ```
-#### Continued in this file -> [Homework 1](https://github.com/Saijentor/Terminal/blob/main/HW_1.txt)
+#### Continued in this file -> [Homework 1](https://github.com/Saijentor/Terminal/blob/main/HW_1.md)
 ***
 #### Additional task for the first homework
 * Send an http request to the server. http://162.55.220.72:5005/terminal-hw-request :
